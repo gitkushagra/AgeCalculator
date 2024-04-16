@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 //Kushagra added a comment
 
+=======
+// Kushagra has made changes 
+>>>>>>> fd8c99fe92667317f680ddfd8c25aa1307d89816
 function buttonColor(flag) {
     if (flag == 1) {
         document.querySelector("Button").style.backgroundColor = "Black";
