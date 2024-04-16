@@ -1,5 +1,4 @@
-// uhyguyg
-
+// Kushagra has made changes 
 function buttonColor(flag) {
     if (flag == 1) {
         document.querySelector("Button").style.backgroundColor = "Black";
